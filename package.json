@@ -1,23 +1,23 @@
 {
-    "name": "gitbook-plugin-styles-stylus",
-    "description": "Use Stylus Stylesheets instead of CSS",
-    "main": "index.js",
-    "version": "1.0.0",
-    "engines": {
-        "gitbook": ">=2.5.0"
-    },
-    "dependencies": {
-        "q": "^1.1.2",
-        "stylus": "0.54.5",
-        "lodash": "^3.10.0"
-    },
-    "homepage": "https://github.com/Qakulukiam/gitbook-plugin-styles-stylus",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Qakulukiam/gitbook-plugin-styles-stylus.git"
-    },
-    "license": "Apache-2.0",
-    "bugs": {
-        "url": "https://github.com/Qakulukiam/gitbook-plugin-styles-stylus/issues"
-    }
+  "name": "gitbook-plugin-styles-stylus",
+  "description": "Use Stylus Stylesheets instead of CSS",
+  "main": "index.js",
+  "version": "1.0.1",
+  "engines": {
+    "gitbook": ">=2.5.0"
+  },
+  "dependencies": {
+    "q": "^1.1.2",
+    "stylus": "0.54.5",
+    "lodash": "^3.10.0"
+  },
+  "homepage": "https://github.com/Qakulukiam/gitbook-plugin-styles-stylus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qakulukiam/gitbook-plugin-styles-stylus.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Qakulukiam/gitbook-plugin-styles-stylus/issues"
+  }
 }
