@@ -4,7 +4,7 @@ var path = require('path');
 var fs = require('fs');
 var stylus = require('stylus');
 
-// Compile a SASS file into a css
+// Compile a Stylus file into a css file
 function renderStylus(input, output) {
     var d = Q.defer();
 
