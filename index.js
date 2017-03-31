@@ -49,7 +49,7 @@ module.exports = {
 
                     return renderStylus(
                         book.resolve(filename),
-                        path.resolve(book.options.output, tmpfile)
+                        path.resolve(book.output.root(), tmpfile)
                     );
                 });
             }, Q());
